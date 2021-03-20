@@ -1,8 +1,11 @@
 # Devspace-Fire
+
 A one-stop shop platform to help women all across the globe to connect with other women to build and flourish business and start-ups.
-The project is a website where women entrepreneurs can connect with employees and vice-versa ,calculate EMI for the loans which they plan to take.
-WORK Completed till now
-HTML PART:
+The project is a website where women entrepreneurs can connect with employees and vice-versa ,calculate EMI for the loans which they plan to take, help them to choose the best bank policies which should be taken by them considering their status, requirement and the amount required for start up or to become self dependent.
+The website also has a fast EMI calculator with a pie chart calculator also which displays the total interest they should pay for a tenure, total EMI, Total amount .
+It also has a problem confession form in which women can state their problems and we will look into it and have tie ups with organisations which can help them.
+The website also encourages women to stand with dignity, come out of their homes and be self indepent.the website has motivational stories and inspirations from great women leaders.
+The website tell them where to start and earn and uplift the society and show all that they can reach heights and outstand in each and every field.
 <!DOCTYPE html>
 <html lang="en">
 <head>
